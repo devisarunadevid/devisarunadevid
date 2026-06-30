@@ -61,13 +61,5 @@ Hey there! I'm **Devis Aruna Devi D**, a **final-year Computer Science & Enginee
 - **🧩 LeetCode:** [LeetCode Profile](https://leetcode.com/u/devisarunadevid/)
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devisarunadevid&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devisarunadevid&layout=compact)
-
----
-
 ## 💡 Feedback Welcome!
 I'm on a journey of continuous learning, and I **welcome constructive feedback** and collaboration opportunities. **Feel free to connect!** 🚀
